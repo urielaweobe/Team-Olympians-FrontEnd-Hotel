@@ -529,6 +529,8 @@
     padding: 30px 20px;
     text-align: center;
     box-shadow: -1px 7px 24px -11px rgba(0, 0, 0, 0.75);
+    background: #fff;
+    z-index: 2;
   }
   .gym-col3 h1 {
     margin: 20px auto;
